@@ -2,34 +2,36 @@
 
   <h1 align="center">Towards Dynamic 3D Reconstruction of Hand-Instrument Interaction in Ophthalmic Surgery</h1>
     <p align="center">
-    <a href=""><strong>Ming Hu</strong></a>
+    <a href=""><strong>Ming Hu</strong></a><sup>1,2,3</sup>
     ·
-    <a href="https://github.com/ZhengdiYu"><strong>Zhengdi Yu</strong></a>
+    <a href="https://github.com/ZhengdiYu"><strong>Zhengdi Yu</strong></a><sup>4</sup>
     ·
-    <a href=""><strong>Feilong Tang</strong></a>
+    <a href=""><strong>Feilong Tang</strong></a><sup>1,2,3</sup>
     ·
-    <a href=""><strong>Kaiwen Chen</strong></a>
+    <a href=""><strong>Kaiwen Chen</strong></a><sup>5</sup>
     ·
-    <a href=""><strong>Yulong Li</strong></a>
+    <a href=""><strong>Yulong Li</strong></a><sup>3</sup>
     ·
-    <a href=""><strong>Imran Razzak</strong></a>
+    <a href=""><strong>Imran Razzak</strong></a><sup>3</sup>
     ·
-    <a href=""><strong>Junjun He</strong></a>
+    <a href=""><strong>Junjun He</strong></a><sup>2</sup>
     ·
-    <a href=""><strong>Kaijing Zhou</strong></a>
+    <a href=""><strong>Tolga Birdal</strong></a><sup>4</sup>
     ·
-    <a href=""><strong>Zongyuan Ge</strong></a>
+    <a href=""><strong>Kaijing Zhou</strong></a><sup>5</sup>
+    ·
+    <a href=""><strong>Zongyuan Ge</strong></a><sup>1</sup>
   </p>
   <p align="center">
-    <strong>Monash University</strong>
+    <sup>1</sup><strong>Monash University</strong>
     ·
-    <strong>Shanghai AI Laboratory</strong>
+    <sup>2</sup><strong>Shanghai AI Laboratory</strong>
     ·
-    <strong>MBZUAI</strong>
+    <sup>3</sup><strong>MBZUAI</strong>
     ·
-    <strong>Imperial College London</strong>
+    <sup>4</sup><strong>Imperial College London</strong>
     ·
-    <strong>IEye Hospital, Wenzhou Medical Univeristy</strong>
+    <sup>5</sup><strong>IEye Hospital, Wenzhou Medical Univeristy</strong>
   </p>
 
   <div align="center" style="display: flex; justify-content: center; gap: 20px;">
@@ -51,7 +53,7 @@
 </p>
 
 <br/>
-We introduce OphNet-3D, the first large-scale RGB-D dataset for dynamic 3D hand-instrument reconstruction in ophthalmic microsurgery, supported by an efficient multi-stage annotation pipeline, and propose novel architectures (H-Net and OH-Net) that significantly outperform existing methods in accurate hand and instrument reconstruction tasks.
+We introduce **OphNet-3D**, the first large-scale RGB-D dataset for dynamic 3D hand-instrument reconstruction in ophthalmic microsurgery, supported by an efficient multi-stage annotation pipeline, and propose novel architectures (**H-Net** and **OH-Net**) that significantly outperform existing methods in accurate hand and instrument reconstruction tasks.
 <br/>
 
 ## News :triangular_flag_on_post:
