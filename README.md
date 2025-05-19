@@ -40,12 +40,11 @@
   </div>
 
   <p align="center">
-    <a href='xxxxx'>
-      <img src='https://img.shields.io/badge/Arxiv-2412.12861-A42C25?style=flat&logo=arXiv&logoColor=A42C25'>
-    </a>
-    <a href='xxxxx'>
+    <a href=''>
+      <img src='https://img.shields.io/badge/Arxiv-2412.12861-A42C25?style=flat&logo=arXiv&logoColor=A42C25'></a>
+    <a href=''>
       <img src='https://img.shields.io/badge/Project-Page-blue?style=flat&logo=Google%20chrome&logoColor=blue'></a>
-    <a href='xxxxxxxx'>
+    <a href=''>
       <img src='https://img.shields.io/badge/YouTube-Video-EA3323?style=flat&logo=youtube&logoColor=EA3323'></a>
       <img src="https://visitor-badge.laobi.icu/badge?page_id=minghu0830.OphNet-3D&left_color=gray&right_color=orange">
     </a>
