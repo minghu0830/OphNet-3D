@@ -31,7 +31,7 @@
     ·
     <sup>4</sup><strong>Imperial College London</strong>
     ·
-    <sup>5</sup><strong>IEye Hospital, Wenzhou Medical Univeristy</strong>
+    <sup>5</sup><strong>Eye Hospital, Wenzhou Medical Univeristy</strong>
   </p>
 
   <div align="center" style="display: flex; justify-content: center; gap: 20px;">
