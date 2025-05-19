@@ -51,7 +51,7 @@
 </p>
 
 <br/>
-We introduce OphNet-3D, the first large-scale RGB-D dataset for dynamic 3D reconstruction in ophthalmic microsurgery, supported by an efficient multi-stage annotation pipeline, and propose novel architectures (H-Net and OH-Net) that significantly outperform existing methods in accurate hand and instrument reconstruction tasks.
+We introduce OphNet-3D, the first large-scale RGB-D dataset for dynamic 3D hand-instrument reconstruction in ophthalmic microsurgery, supported by an efficient multi-stage annotation pipeline, and propose novel architectures (H-Net and OH-Net) that significantly outperform existing methods in accurate hand and instrument reconstruction tasks.
 <br/>
 
 ## News :triangular_flag_on_post:
