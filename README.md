@@ -55,18 +55,15 @@
 We introduce **OphNet-3D**, the first large-scale RGB-D dataset for dynamic 3D hand-instrument reconstruction in ophthalmic microsurgery, supported by an efficient multi-stage annotation pipeline, and propose novel architectures (**H-Net** and **OH-Net**) that significantly outperform existing methods in accurate hand and instrument reconstruction tasks.
 <br/>
 
+<!-- 
 ## News :triangular_flag_on_post:
 - [2025/5/21] [Paper](xxxx) is now available. ⭐
 
 ## Citation
 ```bibtex
-@article{yu2024dyn,
-  title={Dyn-HaMR: Recovering 4D Interacting Hand Motion from a Dynamic Camera},
-  author={Yu, Zhengdi and Zafeiriou, Stefanos and Birdal, Tolga},
-  journal={arXiv preprint arXiv:2412.12861},
-  year={2024}
-}
+
 ```
+-->
 
 ## Contact
 For technical questions, please contact ming.hu@monash.edu or z.yu23@imperial.ac.uk .
