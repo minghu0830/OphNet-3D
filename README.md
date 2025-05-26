@@ -2,9 +2,9 @@
 
   <h1 align="center">Towards Dynamic 3D Reconstruction of Hand-Instrument Interaction in Ophthalmic Surgery</h1>
     <p align="center">
-    <a href=""><strong>Ming Hu</strong></a><sup>1,2,3</sup>
+    <a href=""><strong>Ming Hu</strong></a><sup>1,2,3 *</sup>
     ·
-    <a href="https://github.com/ZhengdiYu"><strong>Zhengdi Yu</strong></a><sup>4</sup>
+    <a href="https://github.com/ZhengdiYu"><strong>Zhengdi Yu *</strong></a><sup>4</sup>
     ·
     <a href=""><strong>Feilong Tang</strong></a><sup>1,2,3</sup>
     ·
@@ -18,9 +18,9 @@
     ·
     <a href=""><strong>Tolga Birdal</strong></a><sup>4</sup>
     ·
-    <a href=""><strong>Kaijing Zhou</strong></a><sup>5</sup>
+    <a href=""><strong>Kaijing Zhou †</strong></a><sup>5</sup>
     ·
-    <a href=""><strong>Zongyuan Ge</strong></a><sup>1</sup>
+    <a href=""><strong>Zongyuan Ge †</strong></a><sup>1</sup>
   </p>
   <p align="center">
     <sup>1</sup><strong>Monash University</strong>
@@ -40,9 +40,9 @@
   </div>
 
   <p align="center">
-    <a href=''>
-      <img src='https://img.shields.io/badge/Arxiv-2412.12861-A42C25?style=flat&logo=arXiv&logoColor=A42C25'></a>
-    <a href=''>
+    <a href='https://arxiv.org/abs/2505.17677'>
+      <img src='https://img.shields.io/badge/Arxiv-2505.17677-A42C25?style=flat&logo=arXiv&logoColor=A42C25'></a>
+    <a href='https://ophnet-3d.github.io/'>
       <img src='https://img.shields.io/badge/Project-Page-blue?style=flat&logo=Google%20chrome&logoColor=blue'></a>
     <a href=''>
       <img src='https://img.shields.io/badge/YouTube-Video-EA3323?style=flat&logo=youtube&logoColor=EA3323'></a>
@@ -52,18 +52,30 @@
 </p>
 
 <br/>
+
 We introduce **OphNet-3D**, the first large-scale RGB-D dataset for dynamic 3D hand-instrument reconstruction in ophthalmic microsurgery, supported by an efficient multi-stage annotation pipeline, and propose novel architectures (**H-Net** and **OH-Net**) that significantly outperform existing methods in accurate hand and instrument reconstruction tasks.
 <br/>
 
-<!-- 
 ## News :triangular_flag_on_post:
-- [2025/5/21] [Paper](xxxx) is now available. ⭐
+- [2025/5/21] [Paper](https://arxiv.org/abs/2505.17677) is now available. ⭐
+
+## TO DO 
+- [ ] Release dataset
+- [ ] Release baseline experimental results and checkpoints
 
 ## Citation
 ```bibtex
-
+@misc{hu2025dynamic3dreconstructionhandinstrument,
+      title={Towards Dynamic 3D Reconstruction of Hand-Instrument Interaction in Ophthalmic Surgery}, 
+      author={Ming Hu and Zhendi Yu and Feilong Tang and Kaiwen Chen and Yulong Li and Imran Razzak and Junjun He and Tolga Birdal and Kaijing Zhou and Zongyuan Ge},
+      year={2025},
+      eprint={2505.17677},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2505.17677}, 
+}
 ```
--->
+
 
 ## Contact
-For technical questions, please contact ming.hu@monash.edu or z.yu23@imperial.ac.uk .
+For any questions, please contact ming.hu@monash.edu or z.yu23@imperial.ac.uk .
