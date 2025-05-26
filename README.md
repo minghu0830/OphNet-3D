@@ -57,7 +57,7 @@ We introduce **OphNet-3D**, the first large-scale RGB-D dataset for dynamic 3D h
 <br/>
 
 ## News :triangular_flag_on_post:
-- [2025/5/21] [Paper](https://arxiv.org/abs/2505.17677) is now available. ⭐
+- [2025/5/26] [Paper](https://arxiv.org/abs/2505.17677) is now available. ⭐
 
 ## TO DO 
 - [ ] Release dataset
