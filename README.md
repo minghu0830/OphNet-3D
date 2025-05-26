@@ -65,7 +65,7 @@ We introduce **OphNet-3D**, the first large-scale RGB-D dataset for dynamic 3D h
 
 ## Citation
 ```bibtex
-@misc{hu2025dynamic3dreconstructionhandinstrument,
+@misc{hu2025ophnet-3d,
       title={Towards Dynamic 3D Reconstruction of Hand-Instrument Interaction in Ophthalmic Surgery}, 
       author={Ming Hu and Zhendi Yu and Feilong Tang and Kaiwen Chen and Yulong Li and Imran Razzak and Junjun He and Tolga Birdal and Kaijing Zhou and Zongyuan Ge},
       year={2025},
