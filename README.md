@@ -57,6 +57,7 @@ We introduce **OphNet-3D**, the first large-scale RGB-D dataset for dynamic 3D h
 <br/>
 
 ## News :triangular_flag_on_post:
+- [2025-6-26] 🎉🎉🎉 OphNet-3D is accepted by NeurIPS 2025 as a Spotlight Paper!.
 - [2025/5/26] [Paper](https://arxiv.org/abs/2505.17677) is now available. ⭐
 
 ## TO DO 
