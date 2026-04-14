@@ -65,7 +65,7 @@ We introduce **OphNet-3D**, the first large-scale RGB-D dataset for dynamic 3D h
 - [ ] Release baseline experimental results and checkpoints
 
 
-## Data Download——HuggingFace
+## Data Download
 *  **HuggingFace Mirror** (optional, if you are in mainland China):
     ```python
     export HF_ENDPOINT=https://hf-mirror.com
@@ -76,7 +76,7 @@ We introduce **OphNet-3D**, the first large-scale RGB-D dataset for dynamic 3D h
     huggingface-cli download --repo-type dataset --resume-download xioamiyh/ophnet_3d  --revision main --local-dir ./
     
 
-## Dataset Structure
+## Data Structure
 ```
 OphNet_3D
 ├── annoation
@@ -127,6 +127,10 @@ OphNet_3D
 ├── intrinsic
 ├── split.txt
 ```
+## Train
+
+
+## Inference
 
 
 ## Citation
