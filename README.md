@@ -63,8 +63,68 @@ We introduce **OphNet-3D**, the first large-scale RGB-D dataset for dynamic 3D h
 ## TO DO 
 - [ ] Release dataset
 - [ ] Release baseline experimental results and checkpoints
-      
- *Expected in mid-November*
+
+
+## Data Download——HuggingFace
+*  **HuggingFace Mirror** (optional, if you are in mainland China):
+    ```python
+    export HF_ENDPOINT=https://hf-mirror.com
+    ```
+
+* **Download**:
+    ```python
+    huggingface-cli download --repo-type dataset --resume-download xioamiyh/ophnet_3d  --revision main --local-dir ./
+    
+
+## Dataset Structure
+```
+OphNet_3D
+├── annoation
+│   ├── 2024-11-25-23-05-08
+│   │   ├── capsulorhexis
+│   │   │   ├── -all-shot-0-0-500-hamer
+│   │   │   ├── -all-shot-0-500-1500-hamer
+│   │   │   ├── -all-shot-0-1500-1980-hamer
+│   │   │   ├── fit_2d_concat
+│   │   ├── cortex_removal
+│   │   ├── ...
+│   ├── 2024-11-26-17-14-13
+│   ├── ...
+├── data
+│   ├── 2024-11-25-23-05-08
+│   │   ├── capsulorhexis
+│   │   │   ├── 043322072326
+│   │   │   │   ├── Depth
+│   │   │   │   │    ├── Depthaligned_62985251230241.png
+│   │   │   │   │    ├── ...
+│   │   │   │   ├── Mask
+│   │   │   │   │    ├── aligned_62985251230241.png
+│   │   │   │   │    ├── ...
+│   │   │   │   ├── RGB
+│   │   │   │   │    ├── aligned_62985251230241.png
+│   │   │   │   │    ├── ...
+│   │   │   ├── 043322072405
+│   │   │   │   ├── Depth
+│   │   │   │   ├── Mask
+│   │   │   │   ├── RGB
+│   │   │   ├── 044122070310
+│   │   │   │   ├── ...
+│   │   │   ├── 044122071255
+│   │   │   │   ├── ...
+│   │   │   ├── 044322070599
+│   │   │   │   ├── ...
+│   │   │   ├── 044322072556
+│   │   │   │   ├── ...
+│   │   │   ├── 233522070438
+│   │   │   │   ├── ...
+│   │   │   ├── 233622073339
+│   │   │   │   ├── ...
+│   │   ├── cortex_removal
+│   │   ├── ...
+│   ├── 2024-11-26-17-14-13
+│   ├── ...
+```
+
 
 ## Citation
 ```bibtex
